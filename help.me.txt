@@ -1,0 +1,6 @@
+Dear my brother.
+
+RocketBot is a nice tool on windows. But I could not convert it to ubuntu. I have a raspberry Pi. I want to run it on PI. :D
+Can you help me convert it to ubuntu. :D
+
+Thank you.
